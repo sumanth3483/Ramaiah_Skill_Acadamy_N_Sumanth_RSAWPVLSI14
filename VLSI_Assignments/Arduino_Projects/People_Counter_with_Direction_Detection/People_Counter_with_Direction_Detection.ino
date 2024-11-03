@@ -1,6 +1,6 @@
 
 
-//  //perfectly WORKING 4.	Countdown Timer with Obstacle-Activated Reset:
+//  //perfectly WORKING 4.  Countdown Timer with Obstacle-Activated Reset:
 //  //Use the touch sensor to start a countdown on the 7-segment display. 
 //  //If the ultrasonic sensor detects an obstacle (within a specified range) during the countdown, reset the timer.
 //  // Display "E" on the display if the countdown completes without interruption.
